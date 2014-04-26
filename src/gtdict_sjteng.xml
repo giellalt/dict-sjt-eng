@@ -8,8 +8,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">die</t>
+         <tg xml:lang="eng">
+            <t pos="v">die</t>
          </tg>
       </mg>
    </e>
@@ -21,8 +21,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">kill</t>
+         <tg xml:lang="eng">
+            <t pos="v">kill</t>
          </tg>
       </mg>
    </e>
@@ -34,8 +34,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">lie</t>
+         <tg xml:lang="eng">
+            <t pos="v">lie</t>
          </tg>
       </mg>
    </e>
@@ -47,8 +47,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">sit</t>
+         <tg xml:lang="eng">
+            <t pos="v">sit</t>
          </tg>
       </mg>
    </e>
@@ -60,8 +60,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">sleep</t>
+         <tg xml:lang="eng">
+            <t pos="v">sleep</t>
          </tg>
       </mg>
    </e>
@@ -73,8 +73,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">feather</t>
+         <tg xml:lang="eng">
+            <t pos="n">feather</t>
          </tg>
       </mg>
    </e>
@@ -86,8 +86,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">meat</t>
+         <tg xml:lang="eng">
+            <t pos="n">meat</t>
          </tg>
       </mg>
    </e>
@@ -99,8 +99,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">tail</t>
+         <tg xml:lang="eng">
+            <t pos="n">tail</t>
          </tg>
       </mg>
    </e>
@@ -112,8 +112,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">bird</t>
+         <tg xml:lang="eng">
+            <t pos="n">bird</t>
          </tg>
       </mg>
    </e>
@@ -125,8 +125,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">blood</t>
+         <tg xml:lang="eng">
+            <t pos="n">blood</t>
          </tg>
       </mg>
    </e>
@@ -138,8 +138,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">bone</t>
+         <tg xml:lang="eng">
+            <t pos="n">bone</t>
          </tg>
       </mg>
    </e>
@@ -151,8 +151,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">egg</t>
+         <tg xml:lang="eng">
+            <t pos="n">egg</t>
          </tg>
       </mg>
    </e>
@@ -164,8 +164,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">fish</t>
+         <tg xml:lang="eng">
+            <t pos="n">fish</t>
          </tg>
       </mg>
    </e>
@@ -177,8 +177,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">heart</t>
+         <tg xml:lang="eng">
+            <t pos="n">heart</t>
          </tg>
       </mg>
    </e>
@@ -190,8 +190,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">liver</t>
+         <tg xml:lang="eng">
+            <t pos="n">liver</t>
          </tg>
       </mg>
    </e>
@@ -203,8 +203,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">tongue</t>
+         <tg xml:lang="eng">
+            <t pos="n">tongue</t>
          </tg>
       </mg>
    </e>
@@ -216,8 +216,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">water</t>
+         <tg xml:lang="eng">
+            <t pos="n">water</t>
          </tg>
       </mg>
    </e>
@@ -229,8 +229,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">hear</t>
+         <tg xml:lang="eng">
+            <t pos="v">hear</t>
          </tg>
       </mg>
    </e>
@@ -242,8 +242,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">know</t>
+         <tg xml:lang="eng">
+            <t pos="v">know</t>
          </tg>
       </mg>
    </e>
@@ -255,9 +255,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">month</t>
-            <t xml:lang="eng" pos="n">moon</t>
+         <tg xml:lang="eng">
+            <t pos="n">month</t>
+            <t pos="n">moon</t>
          </tg>
       </mg>
    </e>
@@ -269,8 +269,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">night</t>
+         <tg xml:lang="eng">
+            <t pos="n">night</t>
          </tg>
       </mg>
    </e>
@@ -282,9 +282,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">sun</t>
-            <t xml:lang="eng" pos="n">day</t>
+         <tg xml:lang="eng">
+            <t pos="n">sun</t>
+            <t pos="n">day</t>
          </tg>
       </mg>
    </e>
@@ -296,8 +296,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">fly</t>
+         <tg xml:lang="eng">
+            <t pos="v">fly</t>
          </tg>
       </mg>
    </e>
@@ -309,8 +309,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">stand</t>
+         <tg xml:lang="eng">
+            <t pos="v">stand</t>
          </tg>
       </mg>
    </e>
@@ -322,8 +322,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">swim</t>
+         <tg xml:lang="eng">
+            <t pos="v">swim</t>
          </tg>
       </mg>
    </e>
@@ -335,9 +335,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">tree</t>
-            <t xml:lang="eng" pos="n">wood</t>
+         <tg xml:lang="eng">
+            <t pos="n">tree</t>
+            <t pos="n">wood</t>
          </tg>
       </mg>
    </e>
@@ -349,8 +349,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">white</t>
+         <tg xml:lang="eng">
+            <t pos="a">white</t>
          </tg>
       </mg>
    </e>
@@ -362,8 +362,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">yellow</t>
+         <tg xml:lang="eng">
+            <t pos="a">yellow</t>
          </tg>
       </mg>
    </e>
@@ -375,8 +375,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">all</t>
+         <tg xml:lang="eng">
+            <t pos="pro">all</t>
          </tg>
       </mg>
    </e>
@@ -388,8 +388,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">ash</t>
+         <tg xml:lang="eng">
+            <t pos="n">ash</t>
          </tg>
       </mg>
    </e>
@@ -401,8 +401,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">belly</t>
+         <tg xml:lang="eng">
+            <t pos="n">belly</t>
          </tg>
       </mg>
    </e>
@@ -414,8 +414,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">big</t>
+         <tg xml:lang="eng">
+            <t pos="a">big</t>
          </tg>
       </mg>
    </e>
@@ -427,8 +427,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">black</t>
+         <tg xml:lang="eng">
+            <t pos="a">black</t>
          </tg>
       </mg>
    </e>
@@ -440,8 +440,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">breast</t>
+         <tg xml:lang="eng">
+            <t pos="n">breast</t>
          </tg>
       </mg>
    </e>
@@ -453,9 +453,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">butter</t>
-            <t xml:lang="eng" pos="n">fat</t>
+         <tg xml:lang="eng">
+            <t pos="n">butter</t>
+            <t pos="n">fat</t>
          </tg>
       </mg>
    </e>
@@ -467,8 +467,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">cold</t>
+         <tg xml:lang="eng">
+            <t pos="a">cold</t>
          </tg>
       </mg>
    </e>
@@ -480,8 +480,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">dog</t>
+         <tg xml:lang="eng">
+            <t pos="n">dog</t>
          </tg>
       </mg>
    </e>
@@ -493,8 +493,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">dry</t>
+         <tg xml:lang="eng">
+            <t pos="a">dry</t>
          </tg>
       </mg>
    </e>
@@ -506,8 +506,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">ear</t>
+         <tg xml:lang="eng">
+            <t pos="n">ear</t>
          </tg>
       </mg>
    </e>
@@ -519,8 +519,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">earth</t>
+         <tg xml:lang="eng">
+            <t pos="n">earth</t>
          </tg>
       </mg>
    </e>
@@ -532,8 +532,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">fingernail</t>
+         <tg xml:lang="eng">
+            <t pos="n">fingernail</t>
          </tg>
       </mg>
    </e>
@@ -545,8 +545,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">fire</t>
+         <tg xml:lang="eng">
+            <t pos="n">fire</t>
          </tg>
       </mg>
    </e>
@@ -558,9 +558,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">foot</t>
-            <t xml:lang="eng" pos="n">leg</t>
+         <tg xml:lang="eng">
+            <t pos="n">foot</t>
+            <t pos="n">leg</t>
          </tg>
       </mg>
    </e>
@@ -572,8 +572,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">good</t>
+         <tg xml:lang="eng">
+            <t pos="a">good</t>
          </tg>
       </mg>
    </e>
@@ -585,8 +585,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">hair</t>
+         <tg xml:lang="eng">
+            <t pos="n">hair</t>
          </tg>
       </mg>
    </e>
@@ -598,9 +598,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">arm</t>
-            <t xml:lang="eng" pos="n">hand</t>
+         <tg xml:lang="eng">
+            <t pos="n">arm</t>
+            <t pos="n">hand</t>
          </tg>
       </mg>
    </e>
@@ -612,8 +612,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">head</t>
+         <tg xml:lang="eng">
+            <t pos="n">head</t>
          </tg>
       </mg>
    </e>
@@ -625,8 +625,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">horn</t>
+         <tg xml:lang="eng">
+            <t pos="n">horn</t>
          </tg>
       </mg>
    </e>
@@ -638,8 +638,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">hot</t>
+         <tg xml:lang="eng">
+            <t pos="a">hot</t>
          </tg>
       </mg>
    </e>
@@ -651,8 +651,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">I</t>
+         <tg xml:lang="eng">
+            <t pos="pro">I</t>
          </tg>
       </mg>
    </e>
@@ -664,8 +664,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">knee</t>
+         <tg xml:lang="eng">
+            <t pos="n">knee</t>
          </tg>
       </mg>
    </e>
@@ -677,8 +677,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">leaf</t>
+         <tg xml:lang="eng">
+            <t pos="n">leaf</t>
          </tg>
       </mg>
    </e>
@@ -690,8 +690,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">long</t>
+         <tg xml:lang="eng">
+            <t pos="a">long</t>
          </tg>
       </mg>
    </e>
@@ -703,8 +703,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">man</t>
+         <tg xml:lang="eng">
+            <t pos="n">man</t>
          </tg>
       </mg>
    </e>
@@ -716,8 +716,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">mountain</t>
+         <tg xml:lang="eng">
+            <t pos="n">mountain</t>
          </tg>
       </mg>
    </e>
@@ -729,8 +729,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">name</t>
+         <tg xml:lang="eng">
+            <t pos="n">name</t>
          </tg>
       </mg>
    </e>
@@ -742,8 +742,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">neck</t>
+         <tg xml:lang="eng">
+            <t pos="n">neck</t>
          </tg>
       </mg>
    </e>
@@ -755,8 +755,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">new</t>
+         <tg xml:lang="eng">
+            <t pos="a">new</t>
          </tg>
       </mg>
    </e>
@@ -768,9 +768,9 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">nose</t>
-            <t xml:lang="eng" pos="n">beak</t>
+         <tg xml:lang="eng">
+            <t pos="n">nose</t>
+            <t pos="n">beak</t>
          </tg>
       </mg>
    </e>
@@ -782,8 +782,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="num">one</t>
+         <tg xml:lang="eng">
+            <t pos="num">one</t>
          </tg>
       </mg>
    </e>
@@ -795,8 +795,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">person</t>
+         <tg xml:lang="eng">
+            <t pos="n">person</t>
          </tg>
       </mg>
    </e>
@@ -808,8 +808,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">rain</t>
+         <tg xml:lang="eng">
+            <t pos="n">rain</t>
          </tg>
       </mg>
    </e>
@@ -821,8 +821,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">red</t>
+         <tg xml:lang="eng">
+            <t pos="a">red</t>
          </tg>
       </mg>
    </e>
@@ -834,8 +834,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">root</t>
+         <tg xml:lang="eng">
+            <t pos="n">root</t>
          </tg>
       </mg>
    </e>
@@ -847,8 +847,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">round</t>
+         <tg xml:lang="eng">
+            <t pos="a">round</t>
          </tg>
       </mg>
    </e>
@@ -860,8 +860,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">sand</t>
+         <tg xml:lang="eng">
+            <t pos="n">sand</t>
          </tg>
       </mg>
    </e>
@@ -873,8 +873,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">skin</t>
+         <tg xml:lang="eng">
+            <t pos="n">skin</t>
          </tg>
       </mg>
    </e>
@@ -886,8 +886,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="a">small</t>
+         <tg xml:lang="eng">
+            <t pos="a">small</t>
          </tg>
       </mg>
    </e>
@@ -899,8 +899,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">smoke</t>
+         <tg xml:lang="eng">
+            <t pos="n">smoke</t>
          </tg>
       </mg>
    </e>
@@ -912,8 +912,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">star</t>
+         <tg xml:lang="eng">
+            <t pos="n">star</t>
          </tg>
       </mg>
    </e>
@@ -925,8 +925,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">stone</t>
+         <tg xml:lang="eng">
+            <t pos="n">stone</t>
          </tg>
       </mg>
    </e>
@@ -938,8 +938,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">this</t>
+         <tg xml:lang="eng">
+            <t pos="pro">this</t>
          </tg>
       </mg>
    </e>
@@ -951,8 +951,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">bite</t>
+         <tg xml:lang="eng">
+            <t pos="v">bite</t>
          </tg>
       </mg>
    </e>
@@ -964,8 +964,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">burn</t>
+         <tg xml:lang="eng">
+            <t pos="v">burn</t>
          </tg>
       </mg>
    </e>
@@ -977,8 +977,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">come</t>
+         <tg xml:lang="eng">
+            <t pos="v">come</t>
          </tg>
       </mg>
    </e>
@@ -990,8 +990,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">drink</t>
+         <tg xml:lang="eng">
+            <t pos="v">drink</t>
          </tg>
       </mg>
    </e>
@@ -1003,8 +1003,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">eat</t>
+         <tg xml:lang="eng">
+            <t pos="v">eat</t>
          </tg>
       </mg>
    </e>
@@ -1016,8 +1016,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">give</t>
+         <tg xml:lang="eng">
+            <t pos="v">give</t>
          </tg>
       </mg>
    </e>
@@ -1029,8 +1029,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">say</t>
+         <tg xml:lang="eng">
+            <t pos="v">say</t>
          </tg>
       </mg>
    </e>
@@ -1042,8 +1042,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="v">see</t>
+         <tg xml:lang="eng">
+            <t pos="v">see</t>
          </tg>
       </mg>
    </e>
@@ -1055,8 +1055,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="n">two</t>
+         <tg xml:lang="eng">
+            <t pos="n">two</t>
          </tg>
       </mg>
    </e>
@@ -1068,8 +1068,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">what</t>
+         <tg xml:lang="eng">
+            <t pos="pro">what</t>
          </tg>
       </mg>
    </e>
@@ -1081,8 +1081,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">who</t>
+         <tg xml:lang="eng">
+            <t pos="pro">who</t>
          </tg>
       </mg>
    </e>
@@ -1094,8 +1094,8 @@
          </orth>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="eng" pos="pro">you</t>
+         <tg xml:lang="eng">
+            <t pos="pro">you</t>
          </tg>
       </mg>
    </e>
